@@ -3,4 +3,6 @@ In this repo I will put my projects throughout my learning period
 
 Hello Earthlings! 
 
-My name is Mikael, I'm aspiring to become a vehicle engineeer, but as a hobby I would like to get a deeper grasp of what I could achive by learning C before tinkering with Arduino. 
+My name is Mikael, I'm aspiring to venture into the vast area of networking, automation and security. 
+The goals for the year 2020, is to learn at least Golang, Python and studying for the CCNA certificate. 
+
